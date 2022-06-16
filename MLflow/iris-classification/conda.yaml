@@ -1,0 +1,11 @@
+name: irisDemo
+
+channels:
+  - defaults
+
+dependencies:
+  - python
+  - pip
+  - pip:
+    - mlflow
+    - scikit-learn

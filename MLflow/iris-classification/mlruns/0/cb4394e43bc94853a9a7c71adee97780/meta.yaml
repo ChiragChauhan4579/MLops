@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow/iris-classification/mlruns/0/cb4394e43bc94853a9a7c71adee97780/artifacts
+end_time: 1655383700454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: cb4394e43bc94853a9a7c71adee97780
+run_uuid: cb4394e43bc94853a9a7c71adee97780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655383689537
+status: 3
+tags: []
+user_id: Chirag Chauhan
