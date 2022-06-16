@@ -1,0 +1,4 @@
+artifact_location: file:///D:/MLops/MLflow/multi%20model%20tracking%20of%20iris%20classification/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Multi_Model_Tracking

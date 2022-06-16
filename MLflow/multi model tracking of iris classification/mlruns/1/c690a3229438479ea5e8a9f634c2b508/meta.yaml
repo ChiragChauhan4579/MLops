@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow/multi%20model%20tracking%20of%20iris%20classification/mlruns/1/c690a3229438479ea5e8a9f634c2b508/artifacts
+end_time: 1655391353047
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c690a3229438479ea5e8a9f634c2b508
+run_uuid: c690a3229438479ea5e8a9f634c2b508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655391341775
+status: 3
+tags: []
+user_id: Chirag Chauhan
