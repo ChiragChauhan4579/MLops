@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow/Yahoo%20finance%20api%20and%20pipelining%20example/psystock-data-features-main/mlruns/2/94a714e2cd9a42e0854352ebd08760ad/artifacts
+end_time: 1656314820348
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 94a714e2cd9a42e0854352ebd08760ad
+run_uuid: 94a714e2cd9a42e0854352ebd08760ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656314820002
+status: 4
+tags: []
+user_id: Chirag Chauhan

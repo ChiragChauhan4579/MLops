@@ -1,0 +1,15 @@
+name: pystock-data-features
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - cloudpickle
+  - pip:
+    - pandas_datareader
+    - great-expectations==0.13.15
+    - pandas-profiling
+    - mlflow
+    - numpy
+    - scipy
+    - pandas
+    - jinja2==3.0
