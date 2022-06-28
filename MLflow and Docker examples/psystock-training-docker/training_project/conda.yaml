@@ -1,0 +1,14 @@
+name: pystock-data-features
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - cloudpickle
+  - pip:
+    - mlflow
+    - numpy
+    - sklearn
+    - pandas
+    - xgboost
+    - matplotlib
+    - jinja2==3.0
