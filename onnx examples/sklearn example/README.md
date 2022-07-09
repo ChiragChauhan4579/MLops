@@ -1,4 +1,4 @@
-# SKlearn example
+# sklearn example
 
 Run all the scripts in this order (python run <filename.py>)<br>
 train -> convert -> inference
