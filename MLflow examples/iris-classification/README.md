@@ -1,7 +1,13 @@
 # Iris classification
 
-running this script by 
+To run the script enter this command 
 
-"""
+```
 mlflow run .
-"""
+```
+
+To see mlflow logs
+
+```
+mlflow ui
+```
