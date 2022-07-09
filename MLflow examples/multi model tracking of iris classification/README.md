@@ -1,6 +1,6 @@
 # Multi model tracking of iris classification
 
-To run the script enter this command 
+To run MLproject file enter this command 
 
 ```
 mlflow run .
