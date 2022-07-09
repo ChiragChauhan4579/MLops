@@ -1,6 +1,6 @@
 # Yahoo finance api and pipelining example
 
-To run the script enter this command 
+To run MLproject file enter this command 
 
 ```
 mlflow run .
