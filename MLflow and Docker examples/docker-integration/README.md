@@ -1,7 +1,7 @@
 # Basic Docker Integration example
 
 ```
-docker build <image_name>
+docker build -t <image_name> .
 ```
 
 ```
